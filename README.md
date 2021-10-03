@@ -1,4 +1,6 @@
-![click on this link](https://github.com/b345642/TEXT-/blob/main/SARAJIT%20194.jpg)
+
+![click on this link](https://github.com/b345642/Projyoti-Banik/edit/main/README.md)
+
 
 # Introduce 🚀 
 Hey everyone 👋 I'm projyoti banik and I'm from nsec AI AND ML first year
