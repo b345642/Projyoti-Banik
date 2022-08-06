@@ -33,17 +33,26 @@ Hey everyone 👋 I'm projyoti banik and I'm from nsec AI AND ML first year
 |s.no|skills|
 |---|---|
 |1.|Hard working|
-|2.|Diploma course on computer|
+|2.|Diploma of computer |
 |3.|java|
 |4.|python|
-|5.|cyber security|
-|6.|game and application devlopment|
+|5.|C++|
+|6.|c|
+|7.|JavaScript|
+|8.|Data structure and algorithms|
+|9.|competitive programming|
+|9.|Back-end web developer|
+|10.|Object oriented programming|
 
 ## 🔷 course
-1. Couresra
-2. Nptl
-3. Udemy
-4. Physic wallah
+1. JAVA
+2.PAYTHON
+3. C++
+4. C
+5. Web development
+6. DSA
+7. CP
+
 
 ## 🔷 Language
 1. Hindi
