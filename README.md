@@ -26,7 +26,8 @@ Hey everyone 👋 I'm projyoti banik and I am currently doing btech in artificia
 |6.| Database Management system
 |6.| Artificial  intelligence 
 
-## 🔷 Technical Skil                1. JAVA
+## 🔷 Technical Skil                
+1. JAVA
 2.PYTHON
 3. C++
 4. C
