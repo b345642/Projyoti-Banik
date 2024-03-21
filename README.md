@@ -31,12 +31,11 @@ Hey everyone 👋 I'm projyoti banik and I am currently doing btech in artificia
 1. JAVA
 2.PYTHON
 3. C++
-4. C
-5. SQL
-6. MONGODB
-7. Numpy
-8. Pandas
-9. Matplotlib 
+4. SQL
+5. MONGODB
+6. Numpy
+7. Pandas
+8. Matplotlib 
 
 
 
