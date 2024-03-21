@@ -24,18 +24,19 @@ Hey everyone 👋 I'm projyoti banik and I am currently doing btech in artificia
 |4.|Data structure and algorithms|
 |5.|competitive programming|
 |6.| Database Management system
-|6.| Artificial  intelligence 
+|7.| Artificial  intelligence 
 
 ## 🔷 Technical Skil                
+
 1. JAVA
 2.PYTHON
 3. C++
 4. C
-8. SQL
-9. MONGODB
-10. Numpy
-11. Pandas
-12. Matplotlib 
+5. SQL
+6. MONGODB
+7. Numpy
+8. Pandas
+9. Matplotlib 
 
 
 
