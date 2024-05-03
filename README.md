@@ -3,13 +3,9 @@
 Hey everyone 👋 I'm projyoti banik and I am currently doing btech in artificial intelligence and machine learning from Netaji subhash engineering college.
 
 ## 🔷 Basic Details
-**Name** *projyoti banik*
 
-**city** *cooch behar*
+**Name** *Projyoti Banik*
 
-<img src="https://img.icons8.com/bubbles/100/000000/kolkata.png"/>
-
-** 🔷 College Details**
 **College Name** *netaji shubhas engneering college*
 
 **College city** *kolkata, Garia*
