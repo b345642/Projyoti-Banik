@@ -2,11 +2,11 @@
 Hey everyone 👋 I'm Projyoti Banik and I am currently doing btech in Artificial Intelligence and Machine Learning from Netaji Subhash Engineering College.
 
 ## 🔷 EDUCATION 
-**Name** *Projyoti Banik*
-**College Name** *Netaji Subhash Engineering College *
-**College city** *kolkata, Garia*
+**College Name**-*Netaji Subhash Engineering College *
+**College city**-*kolkata, Garia*
 Start Year-2021
 Graduation Year-2025
+Current CGPA-8.03
 
 ## COURSEWORK UNDERGRADUATE 
 |s.no|skills|
