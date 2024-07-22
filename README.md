@@ -1,16 +1,16 @@
 
 # Introduce 🚀 
-Hey everyone 👋 I'm projyoti banik and I am currently doing btech in artificial intelligence and machine learning from Netaji subhash engineering college.
+Hey everyone 👋 I'm projyoti banik and I am currently doing btech in artificial intelligence and machine learning from Netaji Subhash Engineering College.
 
 ## 🔷 Basic Details
 
 **Name** *Projyoti Banik*
 
-**College Name** *netaji shubhas engneering college*
+**College Name** *Netaji Subhash Engineering College *
 
 **College city** *kolkata, Garia*
 
-## COURSE WORK 
+## COURSE WORK UNDERGRADUATE 
 |s.no|skills|
 |---|---|
 |1.|Operating System
@@ -20,6 +20,9 @@ Hey everyone 👋 I'm projyoti banik and I am currently doing btech in artificia
 |5.|competitive programming|
 |6.| Database Management system
 |7.| Artificial  intelligence 
+|8.| Problem Solving 
+|9.| Rest APIs 
+|10.| MySql
 
 ## 🔷 Technical Skil                
 
